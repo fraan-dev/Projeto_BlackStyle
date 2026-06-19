@@ -1,4 +1,4 @@
-# 🕶️ Projeto BlackStyle — Web Front-end
+# Projeto BlackStyle — Web Front-end
 
 Seja bem-vindo ao repositório do projeto **BlackStyle**, uma plataforma de e-commerce fictícia desenvolvida como requisito avaliativo para a disciplina de **Desenvolvimento Web Front-end**.
 
@@ -6,7 +6,7 @@ O projeto consiste no design e desenvolvimento da interface de uma loja de roupa
 
 ---
 
-## 👥 Componentes do Grupo
+##  Componentes do Grupo
 * **Francislayne Nobre** 
 * **Maria Lara**
 * **Vitória Beniz**
