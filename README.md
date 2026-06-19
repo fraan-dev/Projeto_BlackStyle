@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png.png" alt="Logo BlackStyle" width="100%">
+  <img src="logo.pngsf.png" alt="Logo BlackStyle" width="100%">
 </p>
 
 # Projeto BlackStyle — Web Front-end
